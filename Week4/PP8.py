@@ -1,6 +1,6 @@
 mylist = [2, 56, 43, 18, 29, 9]
 
-mylist.append (66)      #removes an element tp the list
+mylist.append (66)      #Add an element tp the list
 print (mylist)
 
 mylist.remove (56)     #removes an element
